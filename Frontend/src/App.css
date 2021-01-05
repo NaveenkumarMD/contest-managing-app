@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+#text1{
+    text-decoration:  none !important;
+    color: azure;
+    padding-right: 15px;
+}
+#navbar-title{
+    font-family: 'Grand Hotel', cursive;
+    font-size:25px;
+}
+
+.logincontainer{
+    margin-top:200px;
+}
+.card{
+    padding:20px;
+    text-align: center;
+    max-width: 500px;
+    background-color: azure;
+    margin:10px auto;}
+.card09{
+    padding:20px;
+    text-align: center;
+    max-width: 1000px;
+    margin:10px auto;
+}
+#input{
+    border:none;
+    margin:none;
+    outline: none;
+    border-bottom: 2px solid rgb(197, 191, 191);
+    margin: 20px;
+
+}
+#input:focus{
+    margin:20px;
+    outline:0;
+    border:0;
+    border-bottom: 2px solid black ;
+}
+#loginbutton{
+    max-width: 200px;
+    margin:10px auto;
+}
+#box-heading{
+    font-family: 'Grand Hotel', cursive;
+}
+.loader{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20%;
+}
+#contestlist{
+    height: 100%;
+    display: flex;
+    align-items: flex-start;
+    padding-left:20px;
+    margin-top: 2%;
+    font-size: large;
+
+}
+
+#contestlist1{
+    height: 100%;
+    display: flex;
+    align-items: flex-start;
+    margin-top: 2%;
+    justify-content:start ;
+    font-size: large; 
+
+}
+table,td,th{
+    border:4px solid #343;
+
+}
+table{
+   
+    width:800px;
+}
+#download-button{
+    max-width: 400px;
+    align-self: center;
+}
+
+.topbar{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top:50px;
+    border:1px solid black;
+    background-color:#343a40;
+    color:white;
+    border-radius: 2px;
+    font-size: 20px;
+    cursor: context-menu !important;
+}
+#text3{
+    text-decoration: none;
+}
+#card1{
+    margin-top:90px;
+
+    
+}
+#card8{
+    margin-top:90px;
+}
+#text0{
+    border:2px solid #343a40;
+    font-size:30px;
+}
+#box{
+    margin-top:90px; 
+}
+#sor{
+    display: flex;
+}
+.card2{
+    padding:20px;
+   
+    text-align: left;
+    max-width: 500px;
+    margin:10px auto;   
+    
+}
+#adminres{
+    display:flex;
+}
+#select{
+    max-width: 600px;
+    align-self: center;
+}
+#home{
+    background: url("./images/20201201192337.jpg") no-repeat center center fixed;
+    background-size: cover;
+    min-height:900px;
+    overflow: hidden;
+    
+}
+#call{
+    text-decoration: none;
+    color:snow !important;
+    font-family: 'Domine', serif;
+}
+#mail{
+    text-decoration: none;
+    color:snow;
+    font-family: 'Domine', serif;
+}
+.without-border{
+    border: 0px solid green !important;
+}
+input{
+    background-color:azure
+}
